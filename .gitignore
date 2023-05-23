@@ -1,0 +1,5 @@
+*log*.txt
+*.log
+*cache*
+*.egg-info
+*.code-workspace
